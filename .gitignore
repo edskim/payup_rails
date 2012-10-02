@@ -18,4 +18,3 @@
 /client/*.html
 *.swp
 
-/app/controllers/auth_token.rb
