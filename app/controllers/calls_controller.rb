@@ -1,5 +1,4 @@
 require 'twilio-ruby'
-require 'auth_token.rb'
 
 Account_sid = 'AC49f6dc9e9c193f147a29c6f127f911bb'
 
